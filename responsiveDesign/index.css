@@ -17,9 +17,10 @@ h1 {
 }
 
 h2 {
-    color: #451c7a;
+    color: #302525;
     font-size: 1.375rem;
     margin-top: 0;
+    text-align: center;
 }
 
 h3 {
@@ -33,7 +34,7 @@ p {
 .subheading {
     display: block;
     font-size: 1rem;
-    color: #d0aaff;
+    color: #ece5d8;
 }
 
 .section-two h2 {
@@ -65,23 +66,24 @@ a:active {
 
 .btn-dark {
     color: whitesmoke;
-    background: #5f29a3;
+    background: #a28c5e;
 }
 
 .btn-mid {
-    color: #5f29a3; 
-    background: #f0e0ff; 
+    color: 
+    black; 
+    background: #f8e0a7; 
 }
 
 .btn-light {
-    color: #5f29a3; 
+    color: black; 
     background: whitesmoke;
 }
 
 .btn:hover, 
 .btn:active {
-    color: #2b238a;
-    background-color: #f3e885;
+    color: whitesmoke;
+    background-color: rgb(39, 38, 38);
 }
 
 /* ----- LAYOUT ----- */
@@ -94,7 +96,7 @@ footer {
 
 header, 
 .section-two {
-    background-color: #5f29a3;
+    background-color: #a28c5e;
 }
 
 .section-two {
